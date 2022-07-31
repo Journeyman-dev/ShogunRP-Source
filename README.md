@@ -4,7 +4,7 @@ This is the source code of ShogunRP module for Mount and Blade: Warband. It was 
 
 There are also over 100 different open source packages, commonly refeered to by the community as OSPs, which are as follows:
 
-- Vornne and others - Credit goes to the creators of PW mod. View all of them here:
+- Vornne and others - Credit goes to the creators of Persistent World mod. View all of them here:
   - Laszlo: inspiration from the early versions of PW, discussion of ideas, and testing.
   - Vornne: main developer for the version of Persistent World used to make ShogunRP.
   - Joss: converting native armour textures to heraldic format, some new meshes, and testing.
