@@ -21,7 +21,6 @@ There are also over 100 different open source packages, commonly refeered to by 
   - Vincenzo: for helping drive many new warband releases - without which a lot of the scripting would be much harder or impossible; also help with testing and bug reporting.
 - SacredStoneHead: for the "SSH Samurai Armour Set OSP", which is used in
 this mod. Link: http://www.nexusmods.com/mbwarband/mods/3666/?
-Please see the accompanying file for more info: SSH SAMURAI ARMOR SET OSP README.txt
 - bogmir: for the "Samurai weapons OSP", which can be found here:
 https://forums.taleworlds.com/index.php/topic,210160.0.html
 - xenoargh: for the for the "Camel OSP". It can be found here:
