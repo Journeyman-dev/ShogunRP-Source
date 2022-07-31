@@ -1,4 +1,4 @@
-# ShogunRP Source
+# ShogunRP Module System
 
 This is the source code of ShogunRP module for Mount and Blade: Warband. It was used for Felix's LegionRP server in the summer of 2017. The code is built upon the persistent world module by Steven Schwartfeger (Vornne) which can be found [https://github.com/vornne/pw_module_system](https://github.com/vornne/pw_module_system). The mod itself, along with all asset files, can be downloaded from Nexus Mods: [https://www.nexusmods.com/mbwarband/mods/6162](https://www.nexusmods.com/mbwarband/mods/6162). All coding was done by Daniel Valcour (Journeyman, known as Ramaraunt back when this was made). The map was designed by Jhorj, and the menu artwork was designed by SHURIKIN. Most of the japanese props and items were taken from the Gokokujo mod with permission from phlpp, the author of that mod.
 
